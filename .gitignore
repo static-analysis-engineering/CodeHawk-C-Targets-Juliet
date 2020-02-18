@@ -1,0 +1,5 @@
+# CodeHawk Analysis artifacts
+chc_logfile.txt
+summaryresults*.json
+jsummaryresults.json
+semantics
