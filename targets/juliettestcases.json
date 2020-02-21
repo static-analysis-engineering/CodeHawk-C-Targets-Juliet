@@ -42,7 +42,18 @@
 		"CWE805_char_declare_snprintf",
 		"CWE805_int64_t_alloca_loop",
 		"CWE805_int64_t_alloca_memcpy",
-		"CWE805_int64_t_alloca_memmove"
+		"CWE805_int64_t_alloca_memmove",
+		"CWE805_int64_t_declare_loop",
+		"CWE805_int64_t_declare_memcpy",
+		"CWE805_int64_t_declare_memmove",
+		"CWE805_int_alloca_loop",
+		"CWE805_int_alloca_memcpy",
+		"CWE805_int_alloca_memmove",
+		"CWE805_int_declare_loop",
+		"CWE805_int_declare_memcpy",
+		"CWE805_int_declare_memmove",
+		"CWE805_struct_alloca_loop",
+		"CWE805_struct_alloca_memcpy"
 	    ]
 	}
     },
