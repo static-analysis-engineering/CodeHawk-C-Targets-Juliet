@@ -54,6 +54,28 @@
 		"CWE805_int_declare_memmove",
 		"CWE805_struct_alloca_loop",
 		"CWE805_struct_alloca_memcpy"
+	    ],
+	    "s05": [
+		"CWE805_struct_alloca_memmove",
+		"CWE805_struct_declare_loop",
+		"CWE805_struct_declare_memcpy",
+		"CWE805_struct_declare_memmove"
+	    ],
+	    "s06": [
+		"CWE806_char_alloca_loop",
+		"CWE806_char_alloca_memcpy",
+		"CWE806_char_alloca_memmove",
+		"CWE806_char_alloca_ncat",
+		"CWE806_char_alloca_ncpy",
+		"CWE806_char_alloca_snprintf",
+		"CWE806_char_declare_loop",
+		"CWE806_char_declare_memcpy",
+		"CWE806_char_declare_memmove",
+		"CWE806_char_declare_ncat",
+		"CWE806_char_declare_ncpy"
+	    ],
+	    "s07": [
+		"CWE806_char_declare_snprintf"
 	    ]
 	}
     },
