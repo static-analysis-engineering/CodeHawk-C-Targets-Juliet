@@ -77,6 +77,29 @@
 	    "s07": [
 		"CWE806_char_declare_snprintf"
 	    ]
+	},
+	"CWE122": {
+	    "s01": [
+		"char_type_overrun_memcpy",
+		"char_type_overrun_memmove"
+	    ],
+	    "s05": [
+		"CWE131_loop",
+		"CWE131_memcpy"
+	    ],
+	    "s06": [
+		"CWE131_memmove",
+		"CWE135",
+		"c_CWE129_connect_socket",
+		"c_CWE129_fgets",
+		"c_CWE129_fscanf",
+		"c_CWE129_large",
+		"c_CWE129_listen_socket",
+		"c_CWE129_rand",
+		"c_CWE193_char_cpy",
+		"c_CWE193_char_loop",
+		"c_CWE193_char_memcpy"
+	    ]
 	}
     },
     "cwenames": {
