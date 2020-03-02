@@ -99,6 +99,15 @@
 		"c_CWE193_char_cpy",
 		"c_CWE193_char_loop",
 		"c_CWE193_char_memcpy"
+	    ],
+	    "s07": [
+		"c_CWE193_char_memmove",
+		"c_CWE193_char_ncpy",
+		"c_CWE805_char_loop",
+		"c_CWE805_char_memcpy",
+		"c_CWE805_char_memmove",
+		"c_CWE805_char_ncat",
+		"c_CWE805_char_ncpy"
 	    ]
 	}
     },
