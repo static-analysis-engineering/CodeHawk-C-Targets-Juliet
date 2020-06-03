@@ -157,6 +157,15 @@
 		"char_declare_memcpy",
 		"char_declare_memmove",
 		"char_declare_ncpy"
+	    ],
+	    "s02": [
+		"CWE839_negative",
+		"CWE839_rand",
+		"malloc_char_cpy",
+		"malloc_char_loop",
+		"malloc_char_memcpy",
+		"malloc_char_memmove",
+		"malloc_char_ncpy"
 	    ]
 	}
     },
