@@ -128,6 +128,12 @@
 		"c_CWE806_char_ncat",
 		"c_CWE806_char_ncpy",
 		"c_CWE806_char_snprintf"
+	    ],
+	    "s10": [
+		"c_dest_char_cat",
+		"c_dest_char_cpy",
+		"c_src_char_cat",
+		"c_src_char_cpy"
 	    ]
 	}
     },
