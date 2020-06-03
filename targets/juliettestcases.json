@@ -185,6 +185,11 @@
 		"char_declare_loop",
 		"char_declare_memcpy",
 		"char_declare_memmove"
+	    ],
+	    "s02": [
+		"malloc_char_loop",
+		"malloc_char_memcpy",
+		"malloc_char_memmove"
 	    ]
 	}
     },
