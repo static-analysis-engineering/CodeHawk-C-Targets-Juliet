@@ -167,6 +167,25 @@
 		"malloc_char_memmove",
 		"malloc_char_ncpy"
 	    ]
+	},
+	"CWE126": {
+	    "s01": [
+		"CWE129_connect_socket",
+		"CWE129_fgets",
+		"CWE129_fscanf",
+		"CWE129_large",
+		"CWE129_listen_socket",
+		"CWE129_rand",
+		"CWE170_char_loop",
+		"CWE170_char_memcpy",
+		"CWE170_char_strncpy",
+		"char_alloca_loop",
+		"char_alloca_memcpy",
+		"char_alloca_memmove",
+		"char_declare_loop",
+		"char_declare_memcpy",
+		"char_declare_memmove"
+	    ]
 	}
     },
     "cwenames": {
