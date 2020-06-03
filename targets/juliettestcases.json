@@ -134,6 +134,11 @@
 		"c_dest_char_cpy",
 		"c_src_char_cat",
 		"c_src_char_cpy"
+	    ],
+	    "s11": [
+		"sizeof_double",
+		"sizeof_int64_t",
+		"sizeof_struct"
 	    ]
 	}
     },
