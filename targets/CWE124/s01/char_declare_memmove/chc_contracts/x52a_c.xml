@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-analysis>
+  <header info="cfile" name="cfile" time="2020-06-03 10:43:39.554640"/>
+  <cfile name="x52a">
+    <data-structures/>
+    <functions>
+      <function name="CWE124_Buffer_Underwrite__char_declare_memmove_52_bad">
+        <parameters/>
+      </function>
+      <function name="CWE124_Buffer_Underwrite__char_declare_memmove_52_good">
+        <parameters/>
+      </function>
+      <function name="goodG2B">
+        <parameters/>
+      </function>
+    </functions>
+  </cfile>
+</c-analysis>
