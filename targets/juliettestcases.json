@@ -108,6 +108,26 @@
 		"c_CWE805_char_memmove",
 		"c_CWE805_char_ncat",
 		"c_CWE805_char_ncpy"
+	    ],
+	    "s08": [
+		"c_CWE805_char_snprintf",
+		"c_CWE805_int64_t_loop",
+		"c_CWE805_int64_t_memcpy",
+		"c_CWE805_int64_t_memmove",
+		"c_CWE805_int_loop",
+		"c_CWE805_int_memcpy",
+		"c_CWE805_int_memmove",
+		"c_CWE805_struct_loop",
+		"c_CWE805_struct_memcpy",
+		"c_CWE805_struct_memmove"
+	    ],
+	    "s09": [
+		"c_CWE806_char_loop",
+		"c_CWE806_char_memcpy",
+		"c_CWE806_char_memmove",
+		"c_CWE806_char_ncat",
+		"c_CWE806_char_ncpy",
+		"c_CWE806_char_snprintf"
 	    ]
 	}
     },

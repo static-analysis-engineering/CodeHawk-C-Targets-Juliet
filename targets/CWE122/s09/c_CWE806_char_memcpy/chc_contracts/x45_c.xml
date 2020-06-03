@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-analysis>
+  <header origin="c-analyzer" time="2020-06-02 22:03:17">
+    <application file="x45.c"/>
+  </header>
+  <cfile>
+    <global-variables>
+      <gvar name="CWE122_Heap_Based_Buffer_Overflow__c_CWE806_char_memcpy_45_badData"/>
+      <gvar name="CWE122_Heap_Based_Buffer_Overflow__c_CWE806_char_memcpy_45_goodG2BData"/>
+    </global-variables>
+    <functions>
+      <function name="CWE122_Heap_Based_Buffer_Overflow__c_CWE806_char_memcpy_45_bad">
+        <parameters/>
+      </function>
+      <function name="CWE122_Heap_Based_Buffer_Overflow__c_CWE806_char_memcpy_45_good">
+        <parameters/>
+      </function>
+      <function name="badSink">
+        <parameters/>
+        <preconditions>
+          <pre>
+            <math>
+              <apply>
+                <not-null/>
+                <ci>CWE122_Heap_Based_Buffer_Overflow__c_CWE806_char_memcpy_45_badData</ci>
+              </apply>
+            </math>
+          </pre>
+          <pre>
+            <math>
+              <apply>
+                <valid-mem/>
+                <ci>CWE122_Heap_Based_Buffer_Overflow__c_CWE806_char_memcpy_45_badData</ci>
+              </apply>
+            </math>
+          </pre>
+          <pre>
+            <math>
+              <apply>
+                <allocation-base/>
+                <ci>CWE122_Heap_Based_Buffer_Overflow__c_CWE806_char_memcpy_45_badData</ci>
+              </apply>
+            </math>
+          </pre>
+        </preconditions>
+      </function>
+      <function name="goodG2B">
+        <parameters/>
+      </function>
+      <function name="goodG2BSink">
+        <parameters/>
+        <preconditions>
+          <pre>
+            <math>
+              <apply>
+                <not-null/>
+                <ci>CWE122_Heap_Based_Buffer_Overflow__c_CWE806_char_memcpy_45_goodG2BData</ci>
+              </apply>
+            </math>
+          </pre>
+          <pre>
+            <math>
+              <apply>
+                <valid-mem/>
+                <ci>CWE122_Heap_Based_Buffer_Overflow__c_CWE806_char_memcpy_45_goodG2BData</ci>
+              </apply>
+            </math>
+          </pre>
+          <pre>
+            <math>
+              <apply>
+                <allocation-base/>
+                <ci>CWE122_Heap_Based_Buffer_Overflow__c_CWE806_char_memcpy_45_goodG2BData</ci>
+              </apply>
+            </math>
+          </pre>
+        </preconditions>
+      </function>
+    </functions>
+  </cfile>
+</c-analysis>
