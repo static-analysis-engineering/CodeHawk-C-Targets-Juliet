@@ -191,6 +191,24 @@
 		"malloc_char_memcpy",
 		"malloc_char_memmove"
 	    ]
+	},
+	"CWE127": {
+	    "s01": [
+		"CWE839_connect_socket",
+		"CWE839_fgets",
+		"CWE839_fscanf",
+		"CWE839_listen_socket",
+		"char_alloca_cpy",
+		"char_alloca_loop",
+		"char_alloca_memcpy",
+		"char_alloca_memmove",
+		"char_alloca_ncpy",
+		"char_declare_cpy",
+		"char_declare_loop",
+		"char_declare_memcpy",
+		"char_declare_memmove",
+		"char_declare_ncpy"
+	    ]
 	}
     },
     "cwenames": {
