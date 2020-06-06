@@ -218,6 +218,20 @@
 		"malloc_char_memmove",
 		"malloc_char_ncpy"
 	    ]
+	},
+	"CWE134": {
+	    "s01":  [
+		"char_connect_socket_fprintf",
+		"char_connect_socket_printf",
+		"char_connect_socket_snprintf",
+		"char_connect_socket_vfprintf",
+		"char_connect_socket_vprintf",
+		"char_console_fprintf",
+		"char_console_printf",
+		"char_console_snprintf",
+		"char_console_vfprintf",
+		"char_console_vprintf"
+	    ]
 	}
     },
     "cwenames": {
