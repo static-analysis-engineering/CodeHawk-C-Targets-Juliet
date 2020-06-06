@@ -231,6 +231,17 @@
 		"char_console_snprintf",
 		"char_console_vfprintf",
 		"char_console_vprintf"
+	    ],
+	    "s02": [
+		"char_environment_fprintf",
+		"char_environment_printf",
+		"char_environment_snprintf",
+		"char_environment_vfprintf",
+		"char_environment_vprintf",
+		"char_file_fprintf",
+		"char_file_printf",
+		"char_file_snprintf",
+		"char_file_vfprintf"
 	    ]
 	}
     },
