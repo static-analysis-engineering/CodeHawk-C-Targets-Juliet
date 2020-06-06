@@ -242,6 +242,14 @@
 		"char_file_printf",
 		"char_file_snprintf",
 		"char_file_vfprintf"
+	    ],
+	    "s03": [
+		"char_file_vprintf",
+		"char_listen_socket_fprintf",
+		"char_listen_socket_printf",
+		"char_listen_socket_snprintf",
+		"char_listen_socket_vfprintf",
+		"char_listen_socket_vprintf"
 	    ]
 	}
     },
