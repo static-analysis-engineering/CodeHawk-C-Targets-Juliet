@@ -251,6 +251,47 @@
 		"char_listen_socket_vfprintf",
 		"char_listen_socket_vprintf"
 	    ]
+	},
+	"CWE190": {
+	    "s01": [
+		"char_fscanf_add",
+		"char_fscanf_multiply",
+		"char_fscanf_square",
+		"char_max_add",
+		"char_max_multiply",
+		"char_max_square",
+		"char_rand_add",
+		"char_rand_multiply",
+		"char_rand_square",
+		"int64_t_fscanf_add",
+		"int64_t_fscanf_multiply"
+	    ],
+	    "s02": [
+		"int64_t_fscanf_square",
+		"int64_t_max_add",
+		"int64_t_max_multiply",
+		"int64_t_max_square",
+		"int64_t_rand_add",
+		"int64_t_rand_multiply",
+		"int64_t_rand_square",
+		"int_connect_socket_add",
+		"int_connect_socket_multiply",
+		"int_connect_socket_square",
+		"int_fgets_add"
+	    ],
+	    "s03": [
+		"int_fgets_multiply",
+		"int_fgets_square",
+		"int_fscanf_add",
+		"int_fscanf_multiply",
+		"int_fscanf_square",
+		"int_listen_socket_add",
+		"int_listen_socket_multiply",
+		"int_listen_socket_square",
+		"int_max_add",
+		"int_max_multiply",
+		"int_max_square"
+	    ]
 	}
     },
     "cwenames": {
@@ -334,5 +375,5 @@
 	"66": "Data flow: data passed in an array from one function to another in different source files",
 	"67": "Data flow: data passed in a struct from one function to another in different source files",
 	"68": "Data flow: data passed as a global variable from one function to another in different source files"
-    }
+    }	
 }
