@@ -291,6 +291,19 @@
 		"int_max_add",
 		"int_max_multiply",
 		"int_max_square"
+	    ],
+	    "s04": [
+		"int_rand_add",
+		"int_rand_multiply",
+		"int_rand_square",
+		"short_fscanf_add",
+		"short_fscanf_multiply",
+		"short_fscanf_square",
+		"short_max_add",
+		"short_max_multiply",
+		"short_max_square",
+		"short_rand_add",
+		"short_rand_multiply"
 	    ]
 	}
     },
