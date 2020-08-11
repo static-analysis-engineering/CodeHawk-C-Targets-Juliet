@@ -304,6 +304,18 @@
 		"short_max_square",
 		"short_rand_add",
 		"short_rand_multiply"
+	    ],
+	    "s05": [
+		"short_rand_square",
+		"unsigned_int_fscanf_add",
+		"unsigned_int_fscanf_multiply",
+		"unsigned_int_fscanf_square",
+		"unsigned_int_max_add",
+		"unsigned_int_max_multiply",
+		"unsigned_int_max_square",
+		"unsigned_int_rand_add",
+		"unsigned_int_rand_multiply",
+		"unsigned_int_rand_square"
 	    ]
 	}
     },
