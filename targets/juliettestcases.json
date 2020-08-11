@@ -316,6 +316,26 @@
 		"unsigned_int_rand_add",
 		"unsigned_int_rand_multiply",
 		"unsigned_int_rand_square"
+	    ],
+	    "s06": [
+		"char_fscanf_postinc",
+		"char_max_postinc",
+		"char_rand_postinc",
+		"int64_t_fscanf_postinc",
+		"int64_t_max_postinc",
+		"int64_t_rand_postinc",
+		"int_connect_socket_postinc",
+		"int_fgets_postinc",
+		"int_fscanf_postinc",
+		"int_listen_socket_postinc",
+		"int_max_postinc",
+		"int_rand_postinc",
+		"short_fscanf_postinc",
+		"short_max_postinc",
+		"short_rand_postinc",
+		"unsigned_int_fscanf_postinc",
+		"unsigned_int_max_postinc",
+		"unsigned_int_rand_postinc"
 	    ]
 	}
     },
