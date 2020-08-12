@@ -336,6 +336,26 @@
 		"unsigned_int_fscanf_postinc",
 		"unsigned_int_max_postinc",
 		"unsigned_int_rand_postinc"
+	    ],
+	    "s07": [
+		"char_fscanf_preinc",
+		"char_max_preinc",
+		"char_rand_preinc",
+		"int64_t_fscanf_preinc",
+		"int64_t_max_preinc",
+		"int64_t_rand_preinc",
+		"int_connect_socket_preinc",
+		"int_fgets_preinc",
+		"int_fscanf_preinc",
+		"int_listen_socket_preinc",
+		"int_max_preinc",
+		"int_rand_preinc",
+		"short_fscanf_preinc",
+		"short_max_preinc",
+		"short_rand_preinc",
+		"unsigned_int_fscanf_preinc",
+		"unsigned_int_max_preinc",
+		"unsigned_int_rand_preinc"
 	    ]
 	}
     },
