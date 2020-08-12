@@ -357,6 +357,21 @@
 		"unsigned_int_max_preinc",
 		"unsigned_int_rand_preinc"
 	    ]
+	},
+	"CWE191":  {
+	    "s01": [
+		"char_fscanf_multiply",
+		"char_fscanf_sub",
+		"char_min_multiply",
+		"char_min_sub",
+		"char_rand_multiply",
+		"char_rand_sub",
+		"int64_t_fscanf_multiply",
+		"int64_t_fscanf_sub",
+		"int64_t_min_multiply",
+		"int64_t_min_sub",
+		"int64_t_rand_multiply"
+	    ]
 	}
     },
     "cwenames": {
