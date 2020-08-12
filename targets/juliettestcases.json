@@ -371,6 +371,19 @@
 		"int64_t_min_multiply",
 		"int64_t_min_sub",
 		"int64_t_rand_multiply"
+	    ],
+	    "s02": [
+		"int64_t_rand_sub",
+		"int_connect_socket_multiply",
+		"int_connect_socket_sub",
+		"int_fgets_multiply",
+		"int_fgets_sub",
+		"int_fscanf_multiply",
+		"int_fscanf_sub",
+		"int_listen_socket_multiply",
+		"int_listen_socket_sub",
+		"int_min_multiply",
+		"int_min_sub"
 	    ]
 	}
     },
