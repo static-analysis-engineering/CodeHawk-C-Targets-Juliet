@@ -384,6 +384,19 @@
 		"int_listen_socket_sub",
 		"int_min_multiply",
 		"int_min_sub"
+	    ],
+	    "s03": [
+		"int_rand_multiply",
+		"int_rand_sub",
+		"short_fscanf_multiply",
+		"short_fscanf_sub",
+		"short_min_multiply",
+		"short_min_sub",
+		"short_rand_multiply",
+		"short_rand_sub",
+		"unsigned_int_fscanf_sub",
+		"unsigned_int_min_sub",
+		"unsigned_int_rand_sub"
 	    ]
 	}
     },
