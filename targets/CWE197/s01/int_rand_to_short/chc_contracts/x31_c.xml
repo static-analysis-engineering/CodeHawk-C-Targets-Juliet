@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-analysis>
+  <header info="cfile" name="cfile" time="2020-08-16 09:39:24.336342"/>
+  <cfile name="x31">
+    <data-structures/>
+    <functions>
+      <function name="CWE197_Numeric_Truncation_Error__int_rand_to_short_31_bad">
+        <parameters/>
+      </function>
+      <function name="CWE197_Numeric_Truncation_Error__int_rand_to_short_31_good">
+        <parameters/>
+      </function>
+      <function name="goodG2B">
+        <parameters/>
+      </function>
+    </functions>
+  </cfile>
+</c-analysis>

@@ -498,6 +498,22 @@
 		"rand_memmove",
 		"rand_strncpy"
 	    ]
+	},
+	"CWE197": {
+	    "s01": [
+		"int_connect_socket_to_char",
+		"int_connect_socket_to_short",		
+		"int_fgets_to_char",
+		"int_fgets_to_short",
+		"int_fscanf_to_char",
+		"int_fscanf_to_short",
+		"int_large_to_char",
+		"int_large_to_short",
+		"int_listen_socket_to_char",
+		"int_listen_socket_to_short",
+		"int_rand_to_char",
+		"int_rand_to_short"
+	    ]
 	}
     },
     "cwenames": {
