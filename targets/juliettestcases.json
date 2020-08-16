@@ -513,6 +513,14 @@
 		"int_listen_socket_to_short",
 		"int_rand_to_char",
 		"int_rand_to_short"
+	    ],
+	    "s02": [
+		"short_connect_socket",
+		"short_fgets",
+		"short_fscanf",
+		"short_large",
+		"short_listen_socket",
+		"short_rand"
 	    ]
 	}
     },

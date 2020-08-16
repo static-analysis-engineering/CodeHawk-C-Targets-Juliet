@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-analysis>
+  <header info="cfile" name="cfile" time="2020-08-16 09:47:13.169791"/>
+  <cfile name="x32">
+    <data-structures/>
+    <functions>
+      <function name="CWE197_Numeric_Truncation_Error__short_fgets_32_bad">
+        <parameters/>
+      </function>
+      <function name="CWE197_Numeric_Truncation_Error__short_fgets_32_good">
+        <parameters/>
+      </function>
+      <function name="goodG2B">
+        <parameters/>
+      </function>
+    </functions>
+  </cfile>
+</c-analysis>
