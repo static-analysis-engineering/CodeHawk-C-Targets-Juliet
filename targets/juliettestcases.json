@@ -397,6 +397,26 @@
 		"unsigned_int_fscanf_sub",
 		"unsigned_int_min_sub",
 		"unsigned_int_rand_sub"
+	    ],
+	    "s04": [
+		"char_fscanf_postdec",
+		"char_min_postdec",
+		"char_rand_postdec",
+		"int64_t_fscanf_postdec",
+		"int64_t_min_postdec",
+		"int64_t_rand_postdec",
+		"int_connect_socket_postdec",
+		"int_fgets_postdec",
+		"int_fscanf_postdec",
+		"int_listen_socket_postdec",
+		"int_min_postdec",
+		"int_rand_postdec",
+		"short_fscanf_postdec",
+		"short_min_postdec",
+		"short_rand_postdec",
+		"unsigned_int_fscanf_postdec",
+		"unsigned_int_min_postdec",
+		"unsigned_int_rand_postdec"
 	    ]
 	}
     },
