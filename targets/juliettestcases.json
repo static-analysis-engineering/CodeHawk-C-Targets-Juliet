@@ -483,6 +483,20 @@
 		"fscanf_memcpy",
 		"fscanf_memmove",
 		"fscanf_strncpy"
+	    ],
+	    "s02": [
+		"listen_socket_malloc",
+		"listen_socket_memcpy",
+		"listen_socket_memmove",
+		"listen_socket_strncpy",
+		"negative_malloc",
+		"negative_memcpy",
+		"negative_memmove",
+		"negative_strncpy",
+		"rand_malloc",
+		"rand_memcpy",
+		"rand_memmove",
+		"rand_strncpy"
 	    ]
 	}
     },

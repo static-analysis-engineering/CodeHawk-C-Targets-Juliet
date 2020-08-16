@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-analysis>
+  <header info="cfile" name="cfile" time="2020-08-15 23:34:18.322054"/>
+  <cfile name="x68b">
+    <data-structures/>
+    <functions>
+      <function name="CWE195_Signed_to_Unsigned_Conversion_Error__rand_strncpy_68b_badSink">
+        <parameters/>
+      </function>
+      <function name="CWE195_Signed_to_Unsigned_Conversion_Error__rand_strncpy_68b_goodG2BSink">
+        <parameters/>
+      </function>
+    </functions>
+  </cfile>
+</c-analysis>
