@@ -2,9 +2,12 @@
     "test": "CWE197/s01/int_connect_socket_to_short",
     "macros": {
 	"PPO1": {
-	    "P": "placeholderppo"
+	    "P": "signed-to-signed-cast-lb"
 	},
-	"PS1": [ "PPO1" ]
+	"PPO2": {
+	    "P": "signed-to-signed-cast-ub"
+	},
+	"PS1": [ "PPO1", "PPO2" ]
     },
     "tests": {
 	"01": {
