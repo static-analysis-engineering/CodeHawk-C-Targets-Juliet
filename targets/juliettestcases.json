@@ -417,6 +417,26 @@
 		"unsigned_int_fscanf_postdec",
 		"unsigned_int_min_postdec",
 		"unsigned_int_rand_postdec"
+	    ],
+	    "s05": [
+		"char_fscanf_predec",
+		"char_min_predec",
+		"char_rand_predec",
+		"int64_t_fscanf_predec",
+		"int64_t_min_predec",
+		"int64_t_rand_predec",
+		"int_connect_socket_predec",
+		"int_fgets_predec",
+		"int_fscanf_predec",
+		"int_listen_socket_predec",
+		"int_min_predec",
+		"int_rand_predec",
+		"short_fscanf_predec",
+		"short_min_predec",
+		"short_rand_predec",
+		"unsigned_int_fscanf_predec",
+		"unsigned_int_min_predec",
+		"unsigned_int_rand_predec"
 	    ]
 	}
     },
