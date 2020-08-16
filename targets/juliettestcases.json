@@ -468,6 +468,22 @@
 		"rand_memmove",
 		"rand_strncpy"
 	    ]
+	},
+	"CWE195": {
+	    "s01": [
+		"connect_socket_malloc",
+		"connect_socket_memcpy",
+		"connect_socket_memmove",
+		"connect_socket_strncpy",
+		"fgets_malloc",
+		"fgets_memcpy",
+		"fgets_memmove",
+		"fgets_strncpy",
+		"fscanf_malloc",
+		"fscanf_memcpy",
+		"fscanf_memmove",
+		"fscanf_strncpy"
+	    ]
 	}
     },
     "cwenames": {
