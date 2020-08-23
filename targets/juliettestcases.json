@@ -522,6 +522,30 @@
 		"short_listen_socket",
 		"short_rand"
 	    ]
+	},
+	"CWE369": {
+	    "s01": [
+		"float_connect_socket",
+		"float_fgets",
+		"float_fscanf",
+		"float_listenSocket",
+		"float_rand",
+		"float_zero",
+		"int_connect_socket_divide",
+		"int_connect_socket_modulo",
+		"int_fgets_divide",
+		"int_fgets_modulo",
+		"int_fscanf_divide"
+	    ],
+	    "s02": [
+		"int_fscanf_modulo",
+		"int_listen_socket_divide",
+		"int_listen_socket_modulo",
+		"int_rand_divide",
+		"int_rand_modulo",
+		"int_zero_divide",
+		"int_zero_modulo"
+	    ]
 	}
     },
     "cwenames": {
