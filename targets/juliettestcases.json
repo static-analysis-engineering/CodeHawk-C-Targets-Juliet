@@ -560,6 +560,12 @@
 		"free_int_static",
 		"free_long_alloca",
 		"free_long_declare"
+	    ],
+	    "s05": [
+		"free_long_static",
+		"free_struct_alloca",
+		"free_struct_declare",
+		"free_struct_static"
 	    ]
 	}
     },
