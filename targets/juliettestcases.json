@@ -546,6 +546,21 @@
 		"int_zero_divide",
 		"int_zero_modulo"
 	    ]
+	},
+	"CWE590": {
+	    "s04": [
+		"free_char_alloca",
+		"free_char_declare",
+		"free_char_static",
+		"free_int64_t_alloca",
+		"free_int64_t_declare",
+		"free_int64_t_static",
+		"free_int_alloca",
+		"free_int_declare",
+		"free_int_static",
+		"free_long_alloca",
+		"free_long_declare"
+	    ]
 	}
     },
     "cwenames": {
