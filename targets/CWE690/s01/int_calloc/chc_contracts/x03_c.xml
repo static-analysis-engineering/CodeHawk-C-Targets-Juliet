@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-analysis>
+  <header info="cfile" name="cfile" time="2020-08-22 23:33:45.722582"/>
+  <cfile name="x03">
+    <data-structures/>
+    <functions>
+      <function name="CWE690_NULL_Deref_From_Return__int_calloc_03_bad">
+        <parameters/>
+      </function>
+      <function name="CWE690_NULL_Deref_From_Return__int_calloc_03_good">
+        <parameters/>
+      </function>
+      <function name="goodB2G1">
+        <parameters/>
+      </function>
+      <function name="goodB2G2">
+        <parameters/>
+      </function>
+    </functions>
+  </cfile>
+</c-analysis>

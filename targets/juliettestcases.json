@@ -567,6 +567,22 @@
 		"free_struct_declare",
 		"free_struct_static"
 	    ]
+	},
+	"CWE690": {
+	    "s01": [
+		"char_calloc",
+		"char_malloc",
+		"char_realloc",
+		"fopen",
+		"int64_t_calloc",
+		"int64_t_malloc",
+		"int64_t_realloc",
+		"int_calloc",
+		"int_malloc",
+		"int_realloc",
+		"long_calloc",
+		"long_malloc"
+	    ]
 	}
     },
     "cwenames": {

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-analysis>
+  <header info="cfile" name="cfile" time="2020-08-22 23:36:04.293589"/>
+  <cfile name="x34">
+    <data-structures/>
+    <functions>
+      <function name="CWE690_NULL_Deref_From_Return__long_calloc_34_bad">
+        <parameters/>
+      </function>
+      <function name="CWE690_NULL_Deref_From_Return__long_calloc_34_good">
+        <parameters/>
+      </function>
+      <function name="goodB2G">
+        <parameters/>
+      </function>
+    </functions>
+  </cfile>
+</c-analysis>
