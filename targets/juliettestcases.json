@@ -582,6 +582,12 @@
 		"int_realloc",
 		"long_calloc",
 		"long_malloc"
+	    ],
+	    "s02": [
+		"long_realloc",
+		"struct_calloc",
+		"struct_malloc",
+		"struct_realloc"
 	    ]
 	}
     },
