@@ -252,6 +252,12 @@
 		"char_listen_socket_vprintf"
 	    ]
 	},
+	"CWE188": {
+	    "top": [
+		"modify_local",
+		"union"
+	    ]
+	},
 	"CWE190": {
 	    "s01": [
 		"char_fscanf_add",
