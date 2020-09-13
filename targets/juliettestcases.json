@@ -560,6 +560,16 @@
 		"int_zero_modulo"
 	    ]
 	},
+	"CWE416": {
+	    "top": [
+		"malloc_free_char",
+		"malloc_free_int",
+		"malloc_free_int64_t",
+		"malloc_free_long",
+		"malloc_free_struct",
+		"return_freed_ptr"
+	    ]
+	},
 	"CWE590": {
 	    "s04": [
 		"free_char_alloca",

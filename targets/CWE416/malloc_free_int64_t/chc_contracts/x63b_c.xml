@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-analysis>
+  <header info="cfile" name="cfile" time="2020-09-12 23:16:50.527072"/>
+  <cfile name="x63b">
+    <data-structures/>
+    <functions>
+      <function name="CWE416_Use_After_Free__malloc_free_int64_t_63b_badSink">
+        <parameters>
+          <par name="dataPtr" nr="1"/>
+        </parameters>
+      </function>
+      <function name="CWE416_Use_After_Free__malloc_free_int64_t_63b_goodB2GSink">
+        <parameters>
+          <par name="dataPtr" nr="1"/>
+        </parameters>
+      </function>
+      <function name="CWE416_Use_After_Free__malloc_free_int64_t_63b_goodG2BSink">
+        <parameters>
+          <par name="dataPtr" nr="1"/>
+        </parameters>
+      </function>
+    </functions>
+  </cfile>
+</c-analysis>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-analysis>
+  <header info="cfile" name="cfile" time="2020-09-12 23:20:08.992302"/>
+  <cfile name="x18">
+    <data-structures/>
+    <functions>
+      <function name="CWE416_Use_After_Free__return_freed_ptr_18_bad">
+        <parameters/>
+      </function>
+      <function name="CWE416_Use_After_Free__return_freed_ptr_18_good">
+        <parameters/>
+      </function>
+      <function name="good1">
+        <parameters/>
+      </function>
+      <function name="helperBad">
+        <parameters>
+          <par name="aString" nr="1"/>
+        </parameters>
+      </function>
+      <function name="helperGood">
+        <parameters>
+          <par name="aString" nr="1"/>
+        </parameters>
+      </function>
+    </functions>
+  </cfile>
+</c-analysis>
