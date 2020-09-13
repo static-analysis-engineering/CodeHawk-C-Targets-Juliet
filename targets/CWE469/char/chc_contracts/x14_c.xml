@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-analysis>
+  <header info="cfile" name="cfile" time="2020-09-13 11:25:21.318292"/>
+  <cfile name="x14">
+    <data-structures/>
+    <global-variables>
+      <gvar const="yes" name="globalFive" value="5"/>
+    </global-variables>
+    <functions>
+      <function name="CWE469_Use_of_Pointer_Subtraction_to_Determine_Size__char_14_bad">
+        <parameters/>
+      </function>
+      <function name="CWE469_Use_of_Pointer_Subtraction_to_Determine_Size__char_14_good">
+        <parameters/>
+      </function>
+      <function name="good1">
+        <parameters/>
+      </function>
+      <function name="good2">
+        <parameters/>
+      </function>
+    </functions>
+  </cfile>
+</c-analysis>
