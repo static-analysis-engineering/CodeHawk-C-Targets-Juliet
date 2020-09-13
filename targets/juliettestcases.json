@@ -615,6 +615,12 @@
 		"free_struct_static"
 	    ]
 	},
+	"CWE665": {
+	    "top": [
+		"char_cat",
+		"char_ncat"
+	    ]
+	},
 	"CWE690": {
 	    "s01": [
 		"char_calloc",
