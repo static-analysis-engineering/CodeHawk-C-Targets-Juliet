@@ -570,6 +570,13 @@
 		"return_freed_ptr"
 	    ]
 	},
+	"CWE467": {
+	    "top": [
+		"char",
+		"int",
+		"short"
+	    ]
+	},
 	"CWE590": {
 	    "s04": [
 		"free_char_alloca",
