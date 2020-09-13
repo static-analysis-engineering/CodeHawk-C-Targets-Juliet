@@ -583,6 +583,17 @@
 		"int"
 	    ]
 	},
+	"CWE469": {
+	    "top": [
+		"char"
+	    ]
+	},
+	"CWE562": {
+	    "top": [
+		"return_buf",
+		"return_pointer_buf"
+	    ]
+	},
 	"CWE590": {
 	    "s04": [
 		"free_char_alloca",
