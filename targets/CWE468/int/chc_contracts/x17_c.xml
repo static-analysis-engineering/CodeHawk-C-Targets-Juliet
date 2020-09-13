@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-analysis>
+  <header info="cfile" name="cfile" time="2020-09-12 23:50:56.799424"/>
+  <cfile name="x17">
+    <data-structures/>
+    <functions>
+      <function name="CWE468_Incorrect_Pointer_Scaling__int_17_bad">
+        <parameters/>
+      </function>
+      <function name="CWE468_Incorrect_Pointer_Scaling__int_17_good">
+        <parameters/>
+      </function>
+      <function name="good1">
+        <parameters/>
+      </function>
+    </functions>
+  </cfile>
+</c-analysis>

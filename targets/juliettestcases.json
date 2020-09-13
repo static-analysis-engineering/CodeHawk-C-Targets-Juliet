@@ -577,6 +577,12 @@
 		"short"
 	    ]
 	},
+	"CWE468": {
+	    "top": [
+		"char_ptr_to_int",
+		"int"
+	    ]
+	},
 	"CWE590": {
 	    "s04": [
 		"free_char_alloca",
