@@ -141,6 +141,13 @@
 		"sizeof_struct"
 	    ]
 	},
+	"CWE123": {
+	    "top":  [
+		"connect_socket",
+		"fgets",
+		"listen_socket"
+	    ]
+	},
 	"CWE124": {
 	    "s01": [
 		"CWE839_connect_socket",
